@@ -61,6 +61,7 @@ Vue、Webpack、ES6、vue-router、Vuex、Sass、PostCSS 等。
 |       |-- types.js                 // 根级别的 mutation types
 |       |-- modules                  // 各业务模块的局部状态管理
 |           |-- articles             // 文章业务模块状态管理
+|   |-- views                        // vue文件管理
 |   |-- styles                       // 样式
 |       |-- global                   // 全局样式
 |       |-- utils                    // Sass 工具集合（如：vars、mixin、function 等）
